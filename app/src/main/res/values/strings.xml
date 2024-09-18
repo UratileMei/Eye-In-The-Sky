@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">EyeInTheSky</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="button_register">Register</string>
+    <string name="use_metric_system_kilometers">Use Metric System (Kilometers)</string>
+    <string name="settings">Settings</string>
+    <string name="maximum_distance_km">Maximum Distance (km)</string>
+    <string name="hint_50">50</string>
+    <string name="save_settings">Save Settings</string>
 </resources>
